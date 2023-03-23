@@ -1,0 +1,12 @@
+D:\LapTrinhMang\LyThuyet\Tuan3\Tuan3\obj\Debug\Tuan3.csproj.AssemblyReference.cache
+D:\LapTrinhMang\LyThuyet\Tuan3\Tuan3\obj\Debug\Tuan3.csproj.SuggestedBindingRedirects.cache
+D:\LapTrinhMang\LyThuyet\Tuan3\Tuan3\obj\Debug\Tuan3.Client.resources
+D:\LapTrinhMang\LyThuyet\Tuan3\Tuan3\obj\Debug\Tuan3.Sever.resources
+D:\LapTrinhMang\LyThuyet\Tuan3\Tuan3\obj\Debug\Tuan3.Properties.Resources.resources
+D:\LapTrinhMang\LyThuyet\Tuan3\Tuan3\obj\Debug\Tuan3.csproj.GenerateResource.cache
+D:\LapTrinhMang\LyThuyet\Tuan3\Tuan3\obj\Debug\Tuan3.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\LyThuyet\Tuan3\Tuan3\bin\Debug\Tuan3.exe.config
+D:\LapTrinhMang\LyThuyet\Tuan3\Tuan3\bin\Debug\Tuan3.exe
+D:\LapTrinhMang\LyThuyet\Tuan3\Tuan3\bin\Debug\Tuan3.pdb
+D:\LapTrinhMang\LyThuyet\Tuan3\Tuan3\obj\Debug\Tuan3.exe
+D:\LapTrinhMang\LyThuyet\Tuan3\Tuan3\obj\Debug\Tuan3.pdb
